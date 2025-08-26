@@ -104,7 +104,11 @@ I specialize in leveraging AWS cloud services to build secure, cloud-ready, and 
 ## 🏆 AWS Certifications
 
 ### **AWS Knowledge: Security Champion**
-[![AWS Security Champion](aws-knowledge-security-champion.png)](https://www.credly.com/badges/308bc22b-672b-4927-b3cf-040423aac6a1/public_url)
+<a href="https://www.credly.com/badges/308bc22b-672b-4927-b3cf-040423aac6a1/public_url">
+  <img src="aws-knowledge-security-champion.png" alt="AWS Security Champion" width="200" height="200">
+</a>
 
 ### **AWS Knowledge: Serverless**
-[![AWS Serverless](aws-knowledge-serverless.png)](https://www.credly.com/badges/60ef8858-936e-4b21-9dda-e70e6f2d5ed7/public_url)
+<a href="https://www.credly.com/badges/60ef8858-936e-4b21-9dda-e70e6f2d5ed7/public_url">
+  <img src="aws-knowledge-serverless.png" alt="AWS Serverless" width="200" height="200">
+</a>

@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Ced Harvey Marcos
 
-## 🚀 Python Developer & DevOps Engineer
+## 🚀 AWS Certified Backend Engineer | Serverless | Python | Node
 
-Passionate about building scalable applications and implementing robust DevOps practices. I specialize in Python development, cloud architecture, and infrastructure automation.
+I am a results-driven Backend Engineer with expertise in designing and building robust, scalable, and high-performance systems. With a solid foundation in Python and Node.js, and hands-on experience with FastAPI, Flask, Django, Express.js, and NestJS, I create clean, maintainable, and efficient solutions that power modern applications.
+
+I specialize in leveraging AWS cloud services to build secure, cloud-ready, and scalable architectures tailored to business needs.
 
 ## 🛠️ Tech Stack
 
@@ -10,30 +12,45 @@ Passionate about building scalable applications and implementing robust DevOps p
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### **APIs & Microservices**
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00C851?style=for-the-badge&logo=microservices&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### **Serverless & Infrastructure**
+### **AWS Services**
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS SAM](https://img.shields.io/badge/AWS_SAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-### **Databases & Caching**
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Performance & Optimization**
-![Latency Optimization](https://img.shields.io/badge/Latency_Optimization-00C851?style=for-the-badge&logo=performance&logoColor=white)
-![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-FF6B6B?style=for-the-badge&logo=performance&logoColor=white)
+## 🎯 What I Offer
+
+- **Reliable, production-ready backend solutions**
+- **High-performance API development and integrations**
+- **Full-featured web applications using modern frameworks**
+- **Cloud-native architectures with seamless AWS integrations**
+- **Maintainable code with detailed documentation**
+- **Debugging, optimization, and performance tuning**
 
 ## 🏗️ Architecture & Best Practices
 
 ### **Code Quality**
-- Clean, maintainable code following PEP 8 standards
+- Clean, maintainable code following industry standards
 - Comprehensive error handling and logging
 - Modular architecture with separation of concerns
 - RESTful API design principles
@@ -52,14 +69,14 @@ Passionate about building scalable applications and implementing robust DevOps p
 ## 🚀 Deployment Options
 
 ### **Local Development**
-- Flask development server
-- SQLite database
-- Hot reload for development
+- Development servers with hot reload
+- Local database instances
+- Docker containerization
 
 ### **Production Ready**
-- WSGI server (Gunicorn)
-- PostgreSQL/MySQL database
-- Redis for session storage
+- WSGI/ASGI servers (Gunicorn, Uvicorn)
+- Production databases (MySQL, PostgreSQL, MongoDB)
+- Redis for caching and session storage
 - Docker containerization
 - AWS deployment ready
 
@@ -70,15 +87,13 @@ Passionate about building scalable applications and implementing robust DevOps p
 - **Memory Usage**: Efficient resource utilization
 - **Scalability**: Horizontal scaling ready
 
-## 🤝 Contributing
+## 💼 Why Work with Me?
 
-I welcome contributions! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+- **Passionate about delivering clean, scalable code**
+- **Strong problem-solving and analytical mindset**
+- **Clear communication and commitment to deadlines**
+- **AWS Certified with proven cloud expertise**
+- **Experience with modern backend frameworks**
 
 ## 📈 GitHub Stats
 
@@ -86,16 +101,10 @@ I welcome contributions! Here's how you can help:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cedharveymarcos&layout=compact&theme=radical)
 
-## 🏆 Achievements
+## 🏆 AWS Certifications
 
-- **AWS Certified Solutions Architect**
-- **5+ years** of experience in Python development
-- **3+ years** of DevOps and cloud infrastructure
-- **50+ projects** delivered successfully
-- **99.9% uptime** maintained across production systems
+### **AWS Knowledge: Security Champion**
+[![AWS Security Champion](aws-knowledge-security-champion.png)](https://www.credly.com/badges/308bc22b-672b-4927-b3cf-040423aac6a1/public_url)
 
----
-
-⭐ **Star this repository if you find it helpful!**
-
-*Building the future, one commit at a time.* 🚀 
+### **AWS Knowledge: Serverless**
+[![AWS Serverless](aws-knowledge-serverless.png)](https://www.credly.com/badges/60ef8858-936e-4b21-9dda-e70e6f2d5ed7/public_url)

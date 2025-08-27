@@ -112,3 +112,8 @@ I specialize in leveraging AWS cloud services to build secure, cloud-ready, and 
 <a href="https://www.credly.com/badges/60ef8858-936e-4b21-9dda-e70e6f2d5ed7/public_url">
   <img src="aws-knowledge-serverless.png" alt="AWS Serverless" width="200" height="200">
 </a>
+
+### **Advanced PostgreSQL for Amazon Aurora and Amazon RDS**
+<a href="https://www.credly.com/badges/c549d640-79c6-45e7-9652-b370684f2f47/public_url">
+  <img src="aws-knowledge-postgresql.png" alt="Advanced PostgreSQL for Amazon Aurora and Amazon RDS" width="200" height="200">
+</a>
